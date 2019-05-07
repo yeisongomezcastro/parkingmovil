@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Parqueadero</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Parqueadero Popular</string>
+    <string name="nav_header_subtitle">parqueaderopopular@parqueadero.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="registrar">Registrar Ingreso</string>
+    <string name="consultar_eliminar">Consultar Estado</string>
+    <string name="consultar">Consultar Pago</string>
+    <string name="digitar_nombre">Digitar un nombre</string>
+    <string name="digitar_id">Digitar identificación</string>
+    <string name="digitar_apellido">Digitar un apellido</string>
+    <string name="guardar">Guardar</string>
+    <string name="requerido">El campo es requerido</string>
+    <string name="persona_existe">La persona ya se encuentra registrada</string>
+    <string name="registro_satisfactorio">La información se ha almacenado con éxito</string>
+    <string name="ingresar_id">Favor digite la placa</string>
+    <string name="buscar">Buscar</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="not_found">No existe información relacionada</string>
+</resources>
